@@ -18,3 +18,12 @@ I made some assumptions for the task:
 - Loop through sorted times, if a time is marked as "start" then add 1 to the counter, if "end" then subtract 1 from the counter.
 - Whilst looping through sorted times, check to see if current counter value is the maximum value. Set maximum value to counter value if the counter value is higher  than the current maximum value.
 - Return maximum value
+
+# Solution
+
+The code is in the max_concurrent_videos.py file, I have created a data file video_plays_data_1000000.csv using the code datafile_create.py
+
+# Code Execution
+```
+python max_concurrent_videos.py video_plays_data_1000000.csv
+```
