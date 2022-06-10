@@ -23,6 +23,10 @@ I made some assumptions for the task:
 
 The code is in the max_concurrent_videos.py file, I have created a data file video_plays_data_1000000.csv using the code datafile_create.py
 
+# Data Prep
+
+Run the code datafile_create.py to create a csv file with mock up data
+
 # Code Execution
 ```
 python max_concurrent_videos.py video_plays_data_1000000.csv
