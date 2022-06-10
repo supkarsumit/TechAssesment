@@ -25,7 +25,7 @@ The code is in the max_concurrent_videos.py file, I have created a data file vid
 
 # Data Prep
 
-Run the code datafile_create.py to create a csv file with mock up data
+Run the code datafile_create.py to create a csv file (video_plays_data_1000000.csv)
 
 # Code Execution
 ```
